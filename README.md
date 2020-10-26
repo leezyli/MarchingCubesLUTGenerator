@@ -1,7 +1,7 @@
 # MarchingCubesLUTGenerator
 
 This is a lookup table generator for marching cubes.  
-MarchingCubes LUT is verified by this project: https://github.com/SebLague/Marching-Cubes    
+MarchingCubes LUT is tested by this project: https://github.com/SebLague/Marching-Cubes    
   
 ---  
 ### References:
